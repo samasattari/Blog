@@ -1,1 +1,4 @@
 /myvenv
+/blogproject/db.sqlite3
+# *.sqlite3
+
